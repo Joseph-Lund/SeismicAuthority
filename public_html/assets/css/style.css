@@ -11560,11 +11560,11 @@ textarea.form-control {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #acf3e2;
+  background: #CA4B56;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #c2f6ea;
+  background: #CA4B56;
 }
 
 .table.v-align-center th, .table.v-align-center td {
