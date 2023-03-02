@@ -29,6 +29,10 @@ $(document).ready(function(){
             });
         } 
     });
-
+// image sliders
     $('.beforeAfter').beforeAfter();
+
+//twitter followers
+
+}
 });
